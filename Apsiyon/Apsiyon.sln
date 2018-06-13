@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apsiyon.App", "Apsiyon.App\Apsiyon.App.csproj", "{EC285FBB-DC13-44FE-A77D-D3ED29964F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apsiyon.Test", "Apsiyon.Test\Apsiyon.Test.csproj", "{BB52FF5C-2A2C-4D3B-9896-818FAE6157B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC285FBB-DC13-44FE-A77D-D3ED29964F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC285FBB-DC13-44FE-A77D-D3ED29964F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC285FBB-DC13-44FE-A77D-D3ED29964F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC285FBB-DC13-44FE-A77D-D3ED29964F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB52FF5C-2A2C-4D3B-9896-818FAE6157B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB52FF5C-2A2C-4D3B-9896-818FAE6157B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB52FF5C-2A2C-4D3B-9896-818FAE6157B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB52FF5C-2A2C-4D3B-9896-818FAE6157B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
